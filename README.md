@@ -23,7 +23,16 @@
   <img src="https://img.shields.io/badge/Vue.js-ede9e6?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
 </span>
 <span>
+  <img src="https://img.shields.io/badge/React-ede9e6?style=flat-square&logo=react&logoColor=61DAFB"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/TypeScript-ede9e6?style=flat-square&logo=typescript&logoColor=3178C6"/>
+</span>
+<span>
   <img src="https://img.shields.io/badge/Django-ede9e6?style=flat-square&logo=django&logoColor=092E20"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/FastAPI-ede9e6?style=flat-square&logo=fastapi&logoColor=009688"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/Git-ede9e6?style=flat-square&logo=Git&logoColor=F05032"/>
